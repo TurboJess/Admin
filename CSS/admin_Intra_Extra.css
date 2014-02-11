@@ -88,6 +88,8 @@ color: #5c5c5c;
 	height: 100%;
 	float:left;
 	border-right: black solid 1px;
+	position: absolute; 
+	left: 0;
 }
 h1{
 	display: block;
@@ -119,4 +121,11 @@ html, body {
 	float:right;
 }
 
+ul{
+	list-style-type: none;
+}
+
+li{
+	list-style-type: none;
+}
 
