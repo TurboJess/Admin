@@ -16,7 +16,7 @@ box-shadow: 0 3px 5px rgba(0, 0, 0, .35);
 	width: 30%
 }
 .container{
-	background-color: black;
+
 
 }
 #desktopNav {
@@ -77,6 +77,46 @@ padding-right: 100px;
 }
 .nav-wrapper span:hover {
 color: #5c5c5c;
+}
+
+
+/*this begins css on the side menu*/
+
+.sideMenu{
+	width:17%;
+	background-color: red;
+	height: 100%;
+	float:left;
+	border-right: black solid 1px;
+}
+h1{
+	display: block;
+}
+/*.subUl{
+	display:none;
+}*/
+
+
+/*global css*/
+
+.tAc{
+	text-align: center;
+
+}
+
+html, body {
+    height:100%;
+}
+
+.container{
+	height: auto !important;
+	min-height: 100%;
+
+}
+
+.eighty-two{
+	width: 82% !important;
+	float:right;
 }
 
 

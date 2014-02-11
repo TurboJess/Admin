@@ -16,8 +16,7 @@ box-shadow: 0 3px 5px rgba(0, 0, 0, .35);
 	width: 30%
 }
 .container{
-	
-
+	background-color: transparent;
 }
 #desktopNav {
 	display: table-cell;
@@ -44,12 +43,12 @@ box-shadow: 0 3px 5px rgba(0, 0, 0, .35);
 	text-decoration: none !important;
 }
 
-.nav-wrapper ul{
+/*.nav-wrapper ul{
 
-}
+}*/
 body{
 	margin: 0px;
-	color: #363636;
+	
 	width: 100%;
 }
 /*.external-links{
@@ -59,6 +58,7 @@ body{
 margin-bottom: 0px;
 margin-top: 0px;
 }
+
 .site_title a {
 padding-right: 100px;
 }
@@ -74,7 +74,8 @@ padding-right: 100px;
 .nav-wrapper a{
 	text-decoration: none;
 }
-
 .nav-wrapper span:hover {
 color: #5c5c5c;
 }
+
+
