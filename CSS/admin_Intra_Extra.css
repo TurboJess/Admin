@@ -76,7 +76,7 @@ padding-right: 100px;
 	text-decoration: none;
 }
 .nav-wrapper span:hover {
-color: #5c5c5c;
+	color: #5c5c5c;
 }
 
 
@@ -84,7 +84,7 @@ color: #5c5c5c;
 
 .sideMenu{
 	width:17%;
-	background-color: red;
+	background-color: transparent;
 	height: 100%;
 	float:left;
 	border-right: black solid 1px;
@@ -122,10 +122,20 @@ html, body {
 }
 
 ul{
+	font-family: "Dosis";
 	list-style-type: none;
 }
 
 li{
+	font-family: "Dosis";
 	list-style-type: none;
+}
+
+ul:hover{
+	color: #5c5c5c;
+}
+
+li:hover{
+	color: #5c5c5c;
 }
 
