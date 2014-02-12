@@ -1,0 +1,24 @@
+/* this is where al the user data will populate*/
+
+.UserPhoto img{
+	max-height: 50px !important;
+	max-width: 50px !important;
+}
+
+.UserData ul li {
+	font-family: "Dosis";
+	text-align: right;
+	display: inline-block;
+	margin: 0 0 0 30px;
+	font-size: 14px !important;
+	text-decoration: none !important;
+	vertical-align: middle;
+	text-transform: uppercase;
+
+}
+
+.UserData ul{
+
+	border-bottom: black solid 2px;
+
+}
