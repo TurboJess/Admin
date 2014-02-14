@@ -116,7 +116,7 @@ html, body {
 }
 
 .eighty-two{
-	width: 82% !important;
+	width: 83% !important;
 	float:right;
 }
 
@@ -136,5 +136,33 @@ ul:hover{
 
 li:hover{
 	color: #5c5c5c;
+}
+
+
+/* this is where al the user data will populate*/
+
+.UserPhoto img{
+	display: inline;
+	max-height: 50px !important;
+	max-width: 50px !important;
+}
+
+.UserData ul li {
+	font-family: "Dosis";
+	text-align: right;
+	display: inline-block;
+	margin: 0 0 0 30px;
+	font-size: 14px !important;
+	text-decoration: none !important;
+	vertical-align: middle;
+	text-transform: uppercase;
+	padding-right: 10px
+
+}
+
+.UserData ul{
+
+	border-bottom: black solid 2px;
+
 }
 
