@@ -155,5 +155,9 @@ caption{
 	text-align: center;
 }
 
+.yesterday_Day{
+	display: none !important;
+}
+
 
 
