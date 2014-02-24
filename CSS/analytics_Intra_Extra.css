@@ -144,9 +144,12 @@ table{
 }
 caption{
 	text-align: center;
+	
 }
 
 .top-buttons{
+	margin-top: 50px;
+	margin-bottom: 50px;
 	text-align: center;
 }
 
