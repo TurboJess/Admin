@@ -118,6 +118,7 @@ html, body {
 .eighty-two{
 	width: 83% !important;
 	float:right;
+	border-left: black solid 1px !important;
 }
 
 ul{
