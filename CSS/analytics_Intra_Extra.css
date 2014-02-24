@@ -85,9 +85,10 @@ color: #5c5c5c;
 	background-color: transparent;
 	height: 100%;
 	float:left;
-	border-right: black solid 1px;
+
 	position: absolute; 
 	left: 0;
+		font-size: 14px !important;
 }
 h1{
 	display: block;
@@ -117,6 +118,7 @@ html, body {
 .eighty-two{
 	width: 82% !important;
 	float:right;
+	border-left: black solid 1px;
 }
 
 ul{
@@ -136,5 +138,17 @@ ul:hover{
 li:hover{
 	color: #5c5c5c;
 }
+
+table{
+	display: none;
+}
+caption{
+	text-align: center;
+}
+
+.top-buttons{
+	text-align: center;
+}
+
 
 
