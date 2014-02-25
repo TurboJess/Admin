@@ -121,7 +121,7 @@ html, body {
 	width: 83% !important;
 	float:right;
 	height: 100%;
-	border-left: black solid 1px;
+	/*border-left: black solid 1px;*/
 }
 
 ul{
