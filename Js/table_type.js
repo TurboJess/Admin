@@ -5,5 +5,5 @@ $(function(){
 		// $('table').visualize({type: 'area', width: '520px'});
 		// $('table').visualize({type: 'line', width: '520px'});
 		// $('table').visualize({type: 'pie', height: '400px', width: '520px'});
-	// $(’table’).visualize().prev().addClass(’accessHide’); 
+	$(’table’).visualize().prev().addClass(’accessHide’); 
 });

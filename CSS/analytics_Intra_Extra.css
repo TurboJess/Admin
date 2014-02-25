@@ -87,7 +87,7 @@ color: #5c5c5c;
 	background-color: transparent;
 	height: 100%;
 	float:left;
-
+	border-right: black solid 1px;
 	position: absolute; 
 	left: 0;
 		font-size: 14px !important;
@@ -118,8 +118,9 @@ html, body {
 }
 
 .eighty-two{
-	width: 82% !important;
+	width: 83% !important;
 	float:right;
+	height: 100%;
 	border-left: black solid 1px;
 }
 

@@ -3,12 +3,13 @@ $( document ).ready(function() {
 
 
     $(".show_daily").on("click", function(){
+    	
     	var dailyView= $.("#daily")
 
     	dailyView.show()
 
   
-		$(".subUl").show(); 
+		// $(".subUl").show(); 
 		// $( ".titledUl" ).children().css( "display", "red" );
 
 });
