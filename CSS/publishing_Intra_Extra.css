@@ -89,6 +89,7 @@ color: #5c5c5c;
 	border-right: black solid 1px;
 	position: absolute; 
 	left: 0;
+/*	bottom: 0;*/
 }
 h1{
 	display: block;
@@ -135,7 +136,7 @@ ul{
 li{
 	font-family: "Dosis";
 	list-style-type: none;
-}
+
 
 ul:hover{
 	color: #5c5c5c;
@@ -143,5 +144,9 @@ ul:hover{
 
 li:hover{
 	color: #5c5c5c;
+}
+
+p{
+	margin: 0 25px;
 }
 

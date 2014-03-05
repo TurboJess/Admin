@@ -89,6 +89,7 @@ padding-right: 100px;
 	border-right: black solid 1px;
 	position: absolute; 
 	left: 0;
+/*	bottom: 0;*/
 }
 h1{
 	display: block;
@@ -164,4 +165,8 @@ li:hover{
 
 	border-bottom: black solid 2px;
 
+}
+
+p{
+	margin: 0 25px;
 }
