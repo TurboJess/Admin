@@ -86,7 +86,7 @@ color: #5c5c5c;
 	background-color: transparent;
 	height: 100%;
 	float:left;
-/*	border-right: black solid 1px;*/
+	border-right: black solid 1px;
 	position: absolute; 
 	left: 0;
 }
@@ -125,7 +125,6 @@ html, body {
 .eighty-two{
 	width: 82% !important;
 	float:right;
-	border-left: black solid 2px;
 }
 
 ul{

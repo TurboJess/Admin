@@ -18,7 +18,6 @@ box-shadow: 0 3px 5px rgba(0, 0, 0, .35);
 .container{
 	font-family: "Dosis";
 }
-
 #desktopNav {
 	display: table-cell;
 	width: 70%;
@@ -47,7 +46,6 @@ box-shadow: 0 3px 5px rgba(0, 0, 0, .35);
 .nav-wrapper ul{
 
 }
-
 body{
 	margin: 0px;
 	color: #363636;
@@ -90,7 +88,6 @@ color: #5c5c5c;
 	border-right: black solid 1px;
 	position: absolute; 
 	left: 0;
-		font-size: 14px !important;
 }
 h1{
 	display: block;
@@ -118,10 +115,8 @@ html, body {
 }
 
 .eighty-two{
-	width: 83% !important;
+	width: 82% !important;
 	float:right;
-	height: 100%;
-	/*border-left: black solid 1px;*/
 }
 
 ul{
@@ -141,24 +136,5 @@ ul:hover{
 li:hover{
 	color: #5c5c5c;
 }
-
-table{
-	display: none;
-}
-caption{
-	text-align: center;
-
-}
-
-.top-buttons{
-	margin-top: 50px;
-	margin-bottom: 50px;
-	text-align: center;
-}
-
-.yesterday_Day{
-	display: none !important;
-}
-
 
 
